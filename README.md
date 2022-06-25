@@ -1,4 +1,4 @@
 # Mlflow_ex1
 
-the command used to launch the MLFlow server.
-mlflow ui
+The command used to launch the MLFlow server is :
+        mlflow ui
